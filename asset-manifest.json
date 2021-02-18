@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Truls-Dice-Game/static/css/main.056bc3b8.chunk.css",
+    "main.js": "/Truls-Dice-Game/static/js/main.cf326546.chunk.js",
+    "main.js.map": "/Truls-Dice-Game/static/js/main.cf326546.chunk.js.map",
+    "runtime-main.js": "/Truls-Dice-Game/static/js/runtime-main.0478674c.js",
+    "runtime-main.js.map": "/Truls-Dice-Game/static/js/runtime-main.0478674c.js.map",
+    "static/js/2.18f5a218.chunk.js": "/Truls-Dice-Game/static/js/2.18f5a218.chunk.js",
+    "static/js/2.18f5a218.chunk.js.map": "/Truls-Dice-Game/static/js/2.18f5a218.chunk.js.map",
+    "index.html": "/Truls-Dice-Game/index.html",
+    "static/css/main.056bc3b8.chunk.css.map": "/Truls-Dice-Game/static/css/main.056bc3b8.chunk.css.map",
+    "static/js/2.18f5a218.chunk.js.LICENSE.txt": "/Truls-Dice-Game/static/js/2.18f5a218.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0478674c.js",
+    "static/js/2.18f5a218.chunk.js",
+    "static/css/main.056bc3b8.chunk.css",
+    "static/js/main.cf326546.chunk.js"
+  ]
+}
